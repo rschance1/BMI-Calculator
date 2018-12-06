@@ -1,6 +1,6 @@
 # bmi_check
 
-Calculator app that calculates your BMI
+Mobile app that calculates your BMI
 
 ## Getting Started
 
